@@ -1,0 +1,15 @@
+.about-me h1{
+text-align: center;
+color: orange;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.blog img{
+height: 300px;
+width: 300px;
+border-radius: 5px;
+margin-left: 20px;
+border: 2px solid blue;
+}
